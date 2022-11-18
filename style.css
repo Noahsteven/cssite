@@ -1,0 +1,27 @@
+body {
+    background-color: #18caed;
+}
+
+h1 {
+    color: white;
+    font-family: fantasy;
+}
+
+h3 {
+    color: white;
+    font-family: fantasy;
+}
+
+p {
+    color: white;
+    font-family: fantasy;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 15%;
+    height: 30%;
+}
